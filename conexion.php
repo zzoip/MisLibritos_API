@@ -2,10 +2,10 @@
     class conexion{
         // los atributos de clase
         private $server = 'localhost';
-        private $user = 'root';
-        private $password = '';
-       // private $database = 'movies_cac';
-        private $database = 'mislibritos';
+        private $user = 'id22324042_mislibritos';
+        private $password = 'Cac2024*';
+       
+        private $database = 'id22324042_libros_cac';
         private $port  = '3306';
         private $conexion;// guardo un objeto de tipo mysqli
         
